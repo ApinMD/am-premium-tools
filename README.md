@@ -40,6 +40,8 @@ pkg install git -y
 pkg install pip -y
 pkg install python -y
 pip install textual questionary rich requests
+git clone https://github.com/ApinMD/am-premium-tools.git
+cd am-premium-tools
 python ampremium.py
 ```
 
