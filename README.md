@@ -41,7 +41,7 @@ pkg install pip -y
 pkg install python -y
 pip install textual questionary rich requests
 python ampremium.py
-```bash
+```
 
 <div align="center">
 
